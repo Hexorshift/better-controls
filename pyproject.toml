@@ -1,0 +1,20 @@
+[project]
+name = "better-controls"
+version = "1.0.0"
+description = "Intuitively control flight surfaces with your mouse in Microsoft Flight Simulator or other simulators."
+readme = "README.md"
+license = { file = "LICENSE.md" }
+requires-python = ">=3.13"
+authors = [{ name = "Hexorshift", email = "hexorshift@gmail.com" }]
+dependencies = [
+    "PySide6>=6.6.0",
+    "pyautogui>=0.9.55",
+    "pynput>=1.7.6",
+    "vgamepad>=0.0.8",
+]
+keywords = ["MSFS", "flight-simulator", "mouse-control", "gamepad"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: Microsoft :: Windows",
+]
