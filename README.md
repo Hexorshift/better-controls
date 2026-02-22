@@ -20,7 +20,7 @@ Better Controls lets you use your mouse to control flight surfaces such as ailer
 ## 🛠️ Installation
 
 1. Download the latest `.exe` release.
-2. Ensure the [ViGEmBus driver](https://vigem.org/projects/ViGEm/) is installed for virtual controller support.
+2. Ensure the [ViGEmBus driver](https://github.com/nefarius/ViGEmBus/releases) is installed for virtual controller support.
 3. Run `Better Controls.exe`.
 
 ## 🚀 Usage
