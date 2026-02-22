@@ -210,8 +210,8 @@ class MouseYokeGUI(QWidget):
     def __init__(self):
         super().__init__()
         self.setWindowIcon(QIcon(resource_path("src/icon_256x256.ico")))
-        self.setWindowTitle("Better Controls")
-        self.setFixedWidth(250)
+        self.setWindowTitle("Better Controls 1.0.0")
+        self.setFixedWidth(300)
 
         layout = QVBoxLayout()
         instructions = [

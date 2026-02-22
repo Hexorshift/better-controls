@@ -5,10 +5,10 @@ build/
 dist/
 wheels/
 *.egg-info
+*.spec
 
 # Virtual environments
 .venv
 
 command.txt
-Better Controls.spec
 version.txt
