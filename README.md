@@ -21,12 +21,11 @@ Better Controls lets you use your mouse to control flight surfaces such as ailer
 
 1. Download the latest `.exe` release.
 2. Ensure the [ViGEmBus driver](https://github.com/nefarius/ViGEmBus/releases) is installed for virtual controller support.
-3. Run `Better Controls.exe`.
 
 ## 🚀 Usage
 
 1. Launch Microsoft Flight Simulator.
-2. Run `Better Controls.exe`.
+2. Run `.exe`.
 3. Use the hotkeys to toggle the controller, invert elevator, or center the mouse.
 4. Move your mouse to control the yoke.
 5. Hold the left mouse button to activate rudder control.
